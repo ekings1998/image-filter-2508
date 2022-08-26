@@ -33,6 +33,12 @@ Follow the process described in the course to `eb init` a new application and `e
 
 ## Stand Out (Optional)
 
+## My elastic  Beanstalk Endpoint
+http://image-filter-2508-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://hips.hearstapps.com/elleuk.cdnds.net/18/10/1520344613-gettyimages-517003864.jpg
+
+http://image-filter-2508-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/vivo/live/images/2022/8/26/9d08f7f7-c4d3-4e0c-b303-2733d061f47a.jpg
+
+
 ### Refactor the course RESTapi
 
 If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
